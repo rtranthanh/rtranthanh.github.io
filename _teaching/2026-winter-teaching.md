@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2026-winter-teaching
 venue: "Télécom Paris"
-date: "November 2025 – February 2026"
+date: 
 location: "Palaiseau, France"
 ---
 
