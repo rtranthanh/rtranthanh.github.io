@@ -1,5 +1,5 @@
 ---
-title: "Martingales and Markov chains"
+title: "Martingales and Markov chains – APM_4MA02"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2026-winter-teaching
@@ -8,6 +8,6 @@ date: "2025-11-24"
 location: "Palaiseau, France"
 ---
 
-Teaching first-year Master's students about martingales and Markov chains on general (continuous) state spaces. 
+Teaching Master's students about martingales and Markov chains on general (continuous) state spaces. 
 
 Asymptotic behavior of martingales, stopping theorems, Markov kernels, homogeneous Markov chains, strong Markov property
