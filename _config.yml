@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Raphaël Tran-Than"
+title                    : "Raphaël Tran-Thanh"
 title_separator          : ""
 name                     : &name "Raphaël Tran-Thanh"
-description              : &description "My academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "This website serves as a waypoint for anyone looking to contact me, or interested in my work!"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://rtranthanh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rtranthanh/rtranthanh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Raphaël Tran-Thanh"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "PhD student at Télécom Paris"
   location         : "Palaiseau, France"
   employer         : "Institut Polytechnique de Paris"
@@ -35,12 +35,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : "https://orcid.org/0009-0003-7115-8892"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "rtranthanh"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
