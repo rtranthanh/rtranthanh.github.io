@@ -1,5 +1,5 @@
 ---
-title: "Martingales and Markov chains – APM_4MA02"
+title: "Martingales and Markov chains – APM_4MA02 (Tutorials)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2026-winter-teaching
