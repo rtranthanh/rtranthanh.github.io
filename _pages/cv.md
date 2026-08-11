@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+A complete version is available [here](/files/cv.pdf).
+
+Research experience
+======
+* 2025 – present: Doctoral Student
+  * Télécom Paris, LTCI
+  * Advisors: [Laurent Decreusefond](https://www.telecom-paris.fr/laurent-decreusefond) and [Nicolas Privault](https://personal.ntu.edu.sg/nprivault/)
+
+* August 2025 – November 2025: Research Intern
+  * Télécom Paris, LTCI
+  * Advisor: [Laurent Decreusefond](https://www.telecom-paris.fr/laurent-decreusefond)
+  * Topic: Distance between solutions of SDEs and fractional diffusion models.
+
+* March 2025 – August 2025: Research Intern
+  * Université du Québec à Montréal
+  * Advisors: [Hélène Guérin](https://heleneguerin.github.io/) and [Dante Mata López](https://www.linkedin.com/in/dante-mata/)
+  * Topic: Propagation of chaos in a rank-dependent particle system
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Applied Mathematics, Télécom Paris, Institut Polytechnique de Paris, 
+  * Advisors: [Laurent Decreusefond](https://www.telecom-paris.fr/laurent-decreusefond) and [Nicolas Privault](https://personal.ntu.edu.sg/nprivault/) 
+  * Key-words: probability theory, point processes, diffusion models, time-reversal
+* M.Sc. [Applied Mathematics for Life Sciences](https://sites.google.com/view/m2-msv/accueil), Institut Polytechnique de Paris, 2024-2025
+  * Thesis: Reproductive selection in a Moran model. Manuscript [here](/files/thesis.pdf).
+  * Co-authors: [Juan Mardomingo Sanz](https://doctorat.univ-lorraine.fr/en/node/100030604), [Camille Coron](https://www.imo.universite-paris-saclay.fr/~camille.coron/) and [Diala Abu Awad](https://moulon.inrae.fr/personnes/dabuawad/)
+* M.Sc. in [Engineering](https://www.telecom-paris.fr/en/engineering/training), Télécom Paris, 2022-2025
 
-Work experience
+Technical skills
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Programming: Python, Java
+* Machine Learning: pytorch, keras
+* Languages: French (native), English (fluent), Spanish (fluent), Japanese (intermediate), Chinese (intermediate)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
