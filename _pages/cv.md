@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A complete version is available [here](/files/CV_recherche_TRAN-THANH_Raphaël_EN.pdf).
+A PDF version is available [here](/files/CV_recherche_TRAN-THANH_Raphaël_EN.pdf).
 
 Research experience
 ======
