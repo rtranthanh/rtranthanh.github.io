@@ -33,7 +33,7 @@ Education
   * Advisors: [Laurent Decreusefond](https://www.telecom-paris.fr/laurent-decreusefond) and [Nicolas Privault](https://personal.ntu.edu.sg/nprivault/) 
   * Key-words: probability theory, point processes, diffusion models, time-reversal
 * M.Sc. [Applied Mathematics for Life Sciences](https://sites.google.com/view/m2-msv/accueil), Institut Polytechnique de Paris, 2024-2025
-  * Thesis: Reproductive selection in a Moran model. Manuscript [here](/files/thesis.pdf).
+  * Thesis: Reproductive selection in a Moran model. Manuscript [here](/files/Thesis_manuscript_TRAN-THANH.pdf).
   * Co-authors: [Juan Mardomingo Sanz](https://doctorat.univ-lorraine.fr/en/node/100030604), [Camille Coron](https://www.imo.universite-paris-saclay.fr/~camille.coron/) and [Diala Abu Awad](https://moulon.inrae.fr/personnes/dabuawad/)
 * M.Sc. in [Engineering](https://www.telecom-paris.fr/en/engineering/training), Télécom Paris, 2022-2025
 
